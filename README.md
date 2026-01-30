@@ -11,7 +11,8 @@ Bob Run is a small but **fun** Unity game.
 ## Download and installation
 
 1. Go to the **Releases** section of this repository. 
-2. Download either the full Unity project or the pre-built game. 
-3. (Optional) Use the `BobRun.iss` script to create an installer or to install the game more conveniently. 
+2. Download the `BobRun Setup.exe`
+
+If you notice any bug, please contact lazyloopstudio@gmail.com
 
 Enjoy playing Bob Run! 
